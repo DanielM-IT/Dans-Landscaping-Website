@@ -1,0 +1,1047 @@
+﻿
+/*-------------------------  @media (max-width: 575px)  ------------------------*/
+@media (max-width: 575px) {
+
+/*  ----------  Container  ----------*/
+
+.containerwidth		{
+				    max-width:575px;
+				    overflow-x:hidden
+					}
+
+
+/*  ----------  Header  ----------*/
+
+.logo				{
+					width:80%;
+					}
+					
+.calltoaction		{
+					position:absolute;
+					top:130%;
+					right:17%;
+					font-family: 'Playfair Display', serif;
+					font-size:1.2em;
+					font-weight:bolder;
+					color:white;
+					text-shadow:
+					-1px -1px 0 #000,
+					1px -1px 0 #000,
+					-1px 1px 0 #000,
+					1px 1px 0 #000;
+					}
+					
+.reposition  		{
+					margin-left:14%;
+					position:relative;
+					top:0%;
+					right:0%;
+					font-family: 'Playfair Display', serif;
+					font-weight:bolder;
+					color:white;
+					text-shadow:
+					-1px -1px 0 #000,
+					1px -1px 0 #000,
+					-1px 1px 0 #000,
+					1px 1px 0 #000;
+					}			
+					
+.mediapadding		{
+					padding-left: 0 !important;
+					padding-right: 0 !important;
+					padding-bottom: 0 !important;
+					margin:0 !important;
+					}
+
+.mediapaddingtop	{
+					padding-top:9%;
+					}
+			
+			
+/*  ----------  Home Page  ----------*/
+			
+.slogansize			{
+					height:19%;
+					width:80%;
+					text-align:center;
+					}
+										
+					
+/*  ----------  About Us Page  ----------*/
+
+.meettheteamimg1	{
+					border-top:1px #6D3D07 solid;
+					}
+
+.meettheteamimg2	{
+					border-top:1px #6D3D07 solid;
+					}		
+								
+						
+/*  ----------  Landscape Design Page  ----------*/
+
+.blueprintsone      {
+					border-top:1px #8b4513 solid;
+					}					
+
+.blueprintstwo      {
+					border-top:1px #8b4513 solid;
+					}
+
+.blueprintsthree    {
+					border-top:1px #8b4513 solid;
+					}
+					
+
+/*  ----------  Hardscapes Page  ----------*/
+
+.hardscapeimg1		{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg2		{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg3		{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg4		{
+					border-top:1px #6D3D07 solid;
+					}	
+					
+
+/*  ----------  Water Features Page  ----------*/
+
+.toprightimg		{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.midleftimg			{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+										
+.midrightimg		{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+
+/*  ----------  Contact Us Page  ----------*/
+
+.contactus			{
+					padding:3%;
+					text-align:center;
+					background:linear-gradient(
+    				rgba(0, 0, 0, 0.2), 
+      				rgba(0, 0, 0, 0.2)
+    				),#eef6d5;}
+    
+.contactush2		{
+					padding-top:6%;
+					}
+
+#map				{
+					width:100%;
+					height:360px;
+					border-top:1px #000 solid;
+					}  
+    
+/*  ----------  Footer  ----------*/
+
+.affiliatewebsite1	{
+					width:80%;
+					padding-top:10%;
+					padding-left:26%;
+					}
+					
+.affiliatewebsite2	{
+					width:80%;
+					padding-top:20%;
+					padding-left:26%;
+					}
+					
+.footertext			{
+					font-family: 'Playfair Display', serif;
+					font-size:0.9em;
+					font-weight:bolder;
+					text-align:center;
+					color:black;					
+					}
+
+.footercontact		{
+					padding-top:2%;
+					padding-left:9%;
+					}
+					
+.footer				{
+					background-color:#7a7152;
+					}
+
+.bordertop			{
+					border-top:1px #6D3D07 solid;
+					}
+				
+}
+
+
+/*-------------------------@media (min-width: 576px) and (max-width: 767px)------------------------*/
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+/*  ----------  Container  ----------*/
+.containerwidth		{
+				    max-width:767px;
+				    overflow-x:hidden
+					}
+
+
+/*  ----------  Header  ----------*/
+
+.logo 				{
+					width:78%;
+					margin-left:10%;
+					}
+					
+.calltoaction		{
+					position:absolute;
+					top:130%;
+					right:17%;
+					font-family: 'Playfair Display', serif;
+					font-size:1.2em;
+					font-weight:bolder;
+					color:white;
+					text-shadow:
+					-1px -1px 0 #000,
+					1px -1px 0 #000,
+					-1px 1px 0 #000,
+					1px 1px 0 #000;
+					}
+
+.spacefiller		{
+					width:57%;
+					height:67%;
+					visibility:hidden;
+					}
+
+
+.imgsize			{
+					max-width:767px;
+					}
+					
+.addpadding         {
+					padding-left:45px;
+					padding-right:45px;
+					padding-bottom:35px;
+					padding-top:35px;
+					}
+
+.mediapadding		{
+					padding-right:15%;
+					}
+
+					
+/*  ----------  About Us Page  ----------*/
+
+.meettheteamimg1	{
+					border-top:1px #6D3D07 solid;
+					border-left:1px #6D3D07 solid;
+					}
+
+.meettheteamimg2	{
+					border-top:1px #6D3D07 solid;
+					border-right:1px #6D3D07 solid;
+					}					
+						
+					
+/*  ----------  Lanndscape Design Page  ----------*/
+
+.blueprintsone      {
+					border-top:1px #8b4513 solid;
+					}					
+
+.blueprintstwo      {
+					border-top:1px #8b4513 solid;
+					}
+
+.blueprintsthree    {
+					border-top:1px #8b4513 solid;
+					}
+					
+
+/*  ----------  Hardscapes Page  ----------*/
+
+.hardscapeimg1		{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg2		{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg3		{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg4		{
+					border-top:1px #6D3D07 solid;
+					}	
+					
+
+/*  ----------  Water Features Page  ----------*/
+
+.toprightimg		{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.midleftimg			{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+										
+.midrightimg		{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+
+/*  ----------  Contact Us Page  ----------*/
+
+.contactus			{
+					padding:3%;
+					text-align:center;
+					background:linear-gradient(
+      				rgba(0, 0, 0, 0.2), 
+      				rgba(0, 0, 0, 0.2)
+    				),#eef6d5;
+					}
+
+#map				{
+					width:100%;
+					height:560px;
+					border:1px #000 solid;
+					}
+
+
+/*  ----------  Footer  ----------*/
+
+.affiliatewebsite1	{
+					width:60%;
+					padding-top:10%;
+					padding-left:26%;
+					}
+					
+.affiliatewebsite2	{
+					width:60%;
+					padding-top:14%;
+					padding-left:26%;
+					}
+					
+.footertext			{
+					font-family: 'Playfair Display', serif;
+					font-size:0.9em;
+					font-weight:bolder;
+					color:black;
+					}
+
+.footercontact		{
+					padding-top:2%;
+					padding-left:9%;
+					
+					}
+
+.footer				{
+					background-color:#7a7152;
+					}
+					
+.bordertop			{
+					border-top:1px #6D3D07 solid;
+					}
+
+
+}
+
+
+/*-------------------------@media (min-width: 768px) and (max-width: 991px)------------------------*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+/*  ----------  Container  ----------*/
+
+.containerwidth		{
+				    max-width:991px;
+				    overflow-x:hidden
+					}
+
+
+/*  ----------  Header  ----------*/
+
+.logo 				{
+					width:58%;
+					margin-left:10%;
+					}
+
+.calltoaction		{
+					position:absolute;
+					top:130%;
+					right:17%;
+					font-family: 'Playfair Display', serif;
+					font-size:1.2em;
+					font-weight:bolder;
+					color:white;
+					text-shadow:
+					-1px -1px 0 #000,
+					1px -1px 0 #000,
+					-1px 1px 0 #000,
+					1px 1px 0 #000;
+					}
+
+.spacefiller		{
+					width:57%;
+					height:67%;
+					visibility:hidden;
+					}
+
+.mediapadding		{
+					padding-right:15%;
+					}
+				
+					
+/*  ----------  Landscape Design Page  ----------*/
+
+.blueprintsone      {
+					border-left:1px #8b4513 solid;
+					border-right:1px #8b4513 solid;
+					background-color:#fff;
+					}					
+
+.blueprintstwo      {
+					border-left:1px #8b4513 solid;
+					border-top:1px #8b4513 solid;
+					}
+
+.blueprintsthree    {
+					border-right:1px #8b4513 solid;
+					border-top:1px #8b4513 solid;
+					border-left:1px #8b4513 solid;
+					}
+					
+					
+/*  ----------  About Us Page  ----------*/
+
+.meettheteamimg1	{
+					border-top:1px #6D3D07 solid;
+					border-left:1px #6D3D07 solid;
+					border-right:1px #6D3D07 solid;
+					}
+
+.meettheteamimg2	{
+					border-left:1px #6D3D07 solid;
+					border-right:1px #6D3D07 solid;
+					}
+					
+.meettheteamimg3	{
+					border-left:1px #6D3D07 solid;
+					border-right:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+					
+.imgsbackground  	{
+					background-color:#ccccb3;
+					padding-top:1%;
+					padding-bottom:2%;
+					padding-left:3%;
+					padding-right:3%;
+					}	
+						
+			
+/*  ----------  Hardscapes Page  ----------*/
+
+.hardscapeimg1		{
+					border-left:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg2		{
+					border-right:1px #6D3D07 solid;
+					}
+
+.hardscapeimg3		{
+					border-top:1px #6D3D07 solid;
+					border-left:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg4		{
+					border-right:1px #6D3D07 solid;
+					}	
+					
+.hardscapecontent1	{
+					border-bottom:1px #6D3D07 solid;
+					}		
+
+.hardscapecontent2	{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}	
+
+
+/*  ----------  Water Features Page  ----------*/
+
+.toprightimg		{
+					border-left:1px #6D3D07 solid;
+					}
+
+.midleftimg			{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+					
+.midrightcontent	{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+					
+.midrightimg		{
+					border-left:1px #6D3D07 solid;
+					}
+
+.bottomleftimg		{
+					border-top:1px #6D3D07 solid;
+					}
+
+.bottomrightimg		{
+					border-top:1px #6D3D07 solid;
+					}
+
+
+/*  ----------  Contact Us Page  ----------*/
+
+.paddingtop			{
+					padding-top:32%;
+					}
+
+.contactus			{
+					padding:7%;
+					background:linear-gradient(
+				    rgba(0, 0, 0, 0.2), 
+				    rgba(0, 0, 0, 0.2)
+    				),#eef6d5;
+					}
+					
+.leftpadding		{
+					padding-left:10%;
+					}
+
+#map				{
+					width:100%;
+					height:450px;
+					border:1px #000 solid;
+					}
+
+
+/*  ----------  Footer  ----------*/
+
+.affiliatewebsite1	{
+					width:65%;
+					padding-top:24%;
+					}
+					
+.affiliatewebsite2	{
+					width:65%;
+					padding-top:36%;
+					}
+					
+.footertext			{
+					font-family: 'Playfair Display', serif;
+					font-size:0.9em;
+					font-weight:bolder;
+					color:black;
+					}
+
+.footercontact		{
+					padding-top:2%;
+					padding-left:9%;
+					}
+
+.footer				{
+					background-color:#7a7152;
+					border-top:1px #6D3D07 solid;
+					}
+
+
+/*  ----------  Other  ----------*/
+
+
+.addpadding         {
+					padding-left:45px;
+					padding-right:45px;
+					padding-bottom:35px;
+					padding-top:35px;
+					}
+
+}
+
+
+/*-------------------------@media (min-width: 992px) and (max-width: 1199px)------------------------*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+/*  ----------  Container  ----------*/
+.containerwidth		{
+					max-width:991px;
+					overflow-x:hidden
+					}
+
+
+/*  ----------  Header  ----------*/
+
+.logo 				{
+					width:58%;
+					margin-left:10%;
+					}
+
+.calltoaction		{
+					position:absolute;
+					top:130%;
+					right:17%;
+					font-family: 'Playfair Display', serif;
+					font-size:1.2em;
+					font-weight:bolder;
+					color:white;
+					text-shadow:
+					-1px -1px 0 #000,
+					1px -1px 0 #000,
+					-1px 1px 0 #000,
+					1px 1px 0 #000;
+					}
+
+.spacefiller		{
+					width:57%;
+					height:67%;
+					visibility:hidden;
+					}
+
+.mediapadding		{
+					padding-right:15%;
+					}			
+				
+
+/*  ----------  About Us Page  ----------*/
+
+.meettheteamimg1	{
+					border-top:1px #6D3D07 solid;
+					border-left:1px #6D3D07 solid;
+					border-right:1px #6D3D07 solid;
+					}
+
+.meettheteamimg2	{
+					border-left:1px #6D3D07 solid;
+					border-right:1px #6D3D07 solid;
+					}
+					
+.meettheteamimg3	{
+					border-left:1px #6D3D07 solid;
+					border-right:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+					
+.imgsbackground  	{
+					background-color:#ccccb3;
+					padding-top:1%;
+					padding-bottom:2%;
+					padding-left:3%;
+					padding-right:3%;
+					}			
+	
+	
+/*  ----------  Landscape Design Page  ----------*/
+
+.blueprintsone      {
+					border-left:1px #8b4513 solid;
+					border-right:1px #8b4513 solid;
+					background-color:#fff;
+					}					
+
+.blueprintstwo      {
+					border-left:1px #8b4513 solid;
+					border-top:1px #8b4513 solid;
+					}
+
+.blueprintsthree    {
+					border-right:1px #8b4513 solid;
+					border-top:1px #8b4513 solid;
+					border-left:1px #8b4513 solid;
+					}
+				
+	
+/*  ----------  Hardscapes Page  ----------*/
+
+.hardscapeimg1		{
+					border-left:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg2		{
+					border-right:1px #6D3D07 solid;
+					}
+
+.hardscapeimg3		{
+					border-top:1px #6D3D07 solid;
+					border-left:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg4		{
+					border-right:1px #6D3D07 solid;
+					}	
+					
+.hardscapecontent1	{
+					border-bottom:1px #6D3D07 solid;
+					}		
+
+.hardscapecontent2	{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}	
+
+
+/*  ----------  Water Features Page  ----------*/
+
+.toprightimg		{
+					border-left:1px #6D3D07 solid;
+					}
+
+.midleftimg			{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+					
+.midrightcontent	{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+					
+.midrightimg		{
+					border-left:1px #6D3D07 solid;
+					}
+
+
+.bottomleftimg		{
+					border-top:1px #6D3D07 solid;
+					}
+
+.bottomrightimg		{
+					border-top:1px #6D3D07 solid;
+					}
+
+
+/*  ----------  Contact Us Page  ----------*/
+
+.contactush2		{
+					padding-top:32%;
+					padding-bottom:9%;
+					padding-left:9%;
+					padding-right:9%;
+					background:linear-gradient(
+			        rgba(0, 0, 0, 0.2), 
+			        rgba(0, 0, 0, 0.2)
+    				),#eef6d5;}
+
+.contactus 			{
+					padding:7%;
+					background:linear-gradient(
+      				rgba(0, 0, 0, 0.2), 
+      				rgba(0, 0, 0, 0.2)
+    				),#eef6d5;
+					}
+					
+.leftpadding		{
+					padding-left:10%;
+					}
+
+#map				{
+					width:100%;
+					height:560px;
+					border:1px #000 solid;
+					}
+
+
+/*  ----------  Footer  ----------*/
+
+.affiliatewebsite1	{
+					width:65%;
+					padding-top:17%;
+					}
+					
+.affiliatewebsite2	{
+					width:65%;
+					padding-top:32%;
+					}
+					
+.footertext			{
+					font-family: 'Playfair Display', serif;
+					font-size:0.9em;
+					font-weight:bolder;
+					color:black;
+					}
+
+.footercontact		{
+					padding-top:2%;
+					padding-left:9%;
+					}
+					
+.footer				{
+					background-color:#7a7152;
+					border-top:1px #6D3D07 solid;
+					}
+
+
+/*  ----------  Other  ----------*/
+
+.addpadding         {
+					padding-left:45px;
+					padding-right:45px;
+					padding-bottom:35px;
+					padding-top:35px;
+					}
+
+}
+
+
+/*---------------------------------  @media (min-width: 1200px)  -------------------------------*/
+@media (min-width: 1200px) {
+
+
+/*  ----------  Container  ----------*/
+
+.containerwidth		{
+				    max-width:991px;
+				    overflow-x:hidden
+					}
+					
+
+/*  ----------  Header  ----------*/
+.logo 				{
+					width:58%;
+					margin-left:10%;
+					}
+
+.calltoaction		{
+					position:absolute;
+					top:130%;
+					right:17%;
+					font-family: 'Playfair Display', serif;
+					font-size:1.2em;
+					font-weight:bolder;
+					color:white;
+					text-shadow:
+					-1px -1px 0 #000,
+					1px -1px 0 #000,
+					-1px 1px 0 #000,
+					1px 1px 0 #000;
+					}
+
+.spacefiller		{
+					width:57%;
+					height:67%;
+					visibility:hidden;
+					}
+
+.mediapadding		{
+					padding-right:15%;
+					}
+					
+
+/* About Us Page  */
+
+.meettheteamimg1	{
+					border-top:1px #6D3D07 solid;
+					border-left:1px #6D3D07 solid;
+					border-right:1px #6D3D07 solid;
+					}
+
+.meettheteamimg2	{
+					border-left:1px #6D3D07 solid;
+					border-right:1px #6D3D07 solid;
+					}
+					
+.meettheteamimg3	{
+					border-left:1px #6D3D07 solid;
+					border-right:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+	
+.imgsbackground  	{
+					background-color:#ccccb3;
+					padding-top:1%;
+					padding-bottom:2%;
+					padding-left:3%;
+					padding-right:3%;
+					}	
+			
+					
+/*  Landscape Design  */
+
+.blueprintsone      {
+					border-left:1px #8b4513 solid;
+					border-right:1px #8b4513 solid;
+					background-color:#fff;
+					}					
+
+.blueprintstwo      {
+					border-left:1px #8b4513 solid;
+					border-top:1px #8b4513 solid;
+					}
+
+.blueprintsthree    {
+					border-right:1px #8b4513 solid;
+					border-top:1px #8b4513 solid;
+					border-left:1px #8b4513 solid;
+					}
+
+					
+/*  Hardscapes  */
+
+.hardscapeimg1		{
+					border-left:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg2		{
+					border-right:1px #6D3D07 solid;
+					}
+
+.hardscapeimg3		{
+					border-top:1px #6D3D07 solid;
+					border-left:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+
+.hardscapeimg4		{
+					border-right:1px #6D3D07 solid;
+					}	
+					
+.hardscapecontent1	{
+					border-bottom:1px #6D3D07 solid;
+					}		
+
+.hardscapecontent2	{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}	
+
+
+/*  Water Features  */
+
+.toprightimg		{
+					border-left:1px #6D3D07 solid;
+					}
+
+.midleftimg			{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+					
+.midrightcontent	{
+					border-top:1px #6D3D07 solid;
+					border-bottom:1px #6D3D07 solid;
+					}
+					
+.midrightimg		{
+					border-left:1px #6D3D07 solid;
+					}
+
+
+.bottomleftimg		{
+					border-top:1px #6D3D07 solid;
+					}
+
+.bottomrightimg		{
+					border-top:1px #6D3D07 solid;
+					}
+					
+					
+/*-----  Contact Us -----*/
+
+.contactush2		{
+					padding-top:32%;
+					padding-bottom:9%;
+					padding-left:9%;
+					padding-right:9%;
+					background:linear-gradient(
+      				rgba(0, 0, 0, 0.2), 
+      				rgba(0, 0, 0, 0.2)
+    				),#eef6d5;
+					}
+
+.contactus			{
+					padding:7%;
+					background:linear-gradient(
+     				rgba(0, 0, 0, 0.2), 
+      				rgba(0, 0, 0, 0.2)
+    				),#eef6d5;
+					}
+
+
+.leftpadding		{
+					padding-left:10%;
+					}
+
+#map				{
+					width:100%;
+					height:560px;
+					border:1px #000 solid;
+					}
+					
+					
+/*-----  Footer  -----*/
+					
+.affiliatewebsite1	{
+					width:65%;
+					padding-top:17%;
+					}
+					
+.affiliatewebsite2	{
+					width:65%;
+					padding-top:32%;
+					}
+					
+.footertext			{
+					font-family: 'Playfair Display', serif;
+					font-size:0.9em;
+					font-weight:bolder;
+					color:black;
+					}
+
+.footercontact		{
+					padding-top:2%;
+					padding-left:9%;
+					}
+					
+.footer				{
+					background-color:#7a7152;
+					border-top:1px #6D3D07 solid;
+					}
+					
+/*  ----------  Other  ----------*/
+
+.addpadding         {
+					padding-left:45px;
+					padding-right:45px;
+					padding-bottom:35px;
+					padding-top:35px;
+					}
+
+}
+
